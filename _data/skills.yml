@@ -1,28 +1,25 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
+  - item: C++
+  - item: Python
+  - item: Java
+  - item: SQL
+  - item: JavaScript
   - item: HTML
   - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+others:
+  - item: Jupyter Notebooks
+  - item: Android SDK
+  - item: Numpy
+  - item: Pandas
 
 tools:
   - item: Bash
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
+  - item: AWS
   - item: Postman
-  - item: MongoDB
+  - item: MySQL
+  - item: Chrome DevTools
 
 design:
   - item: Sketch
