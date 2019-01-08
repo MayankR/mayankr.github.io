@@ -2,19 +2,42 @@
   url: https://rivigo.com
   time: June - August 2018
   position: Algorithm Engineer
+  used:
+    - thing: Python 3
+    - thing: Java
+    - thing: Jupyter Notebook
+    - thing: Open Street Maps
+    - thing: XGBoost
+    - thing: GraphHopper
 
 - company: Pharmart
   url: http://pharmart.in
   time: Nov 2015 - June 2018
   position: Co-Founder & CTO
+  used:
+    - thing: Python 3
+    - thing: Java
+    - thing: Django
+    - thing: MySQL
+    - thing: Android SDK
+    - thing: AWS EC2
+    - thing: AWS S3
 
 - company: CSE Dept, IIT Delhi
   url: http://www.cse.iitd.ernet.in
   time: Aug 2015 - Jan 2018
   position: Department Services Administrator
+  used:
+    - thing: Python 3
+    - thing: Django
+    - thing: Bash
 
 - company: Amazon 
   url: https://amazon.com
   time: May - July 2017
   position: Software Development Intern
+  used:
+    - thing: Java
+    - thing: MapReduce
+    - thing: AWS S3
 
