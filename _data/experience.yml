@@ -1,9 +1,44 @@
+- company: Robust Intelligence
+  url: https://embarktrucks.com
+  time: May 2023 - Present
+  position: Software Engineer
+  used:
+    - thing: Python
+    - thing: Go Lang
+    - thing: Kubernetes
+    - thing: Terraform
+    - thing: Helm
+
+- company: Embark Trucks
+  url: https://embarktrucks.com
+  time: May 2022 - April 2023
+  position: Software Engineer - Data Infrastructure
+  used:
+    - thing: Python
+    - thing: Kubernetes
+    - thing: Kafka
+    - thing: Airflow
+    - thing: ArgoCD
+    - thing: RabbitMQ
+
+- company: Salesforce
+  url: https://www.salesforce.com
+  time: Jan 2020 - May 2022
+  position: Membar of Technical Staff
+  used:
+    - thing: Python
+    - thing: SQL
+    - thing: Helm
+    - thing: Airflow
+    - thing: Neo4J
+    - thing: Terraform
+
 - company: Rivigo
   url: https://rivigo.com
   time: June - August 2018
   position: Algorithm Engineer
   used:
-    - thing: Python 3
+    - thing: Python
     - thing: Java
     - thing: Jupyter Notebook
     - thing: Open Street Maps
@@ -15,7 +50,7 @@
   time: Nov 2015 - June 2018
   position: Co-Founder & CTO
   used:
-    - thing: Python 3
+    - thing: Python
     - thing: Java
     - thing: Django
     - thing: MySQL
@@ -28,7 +63,7 @@
   time: Aug 2015 - Jan 2018
   position: Department Services Administrator
   used:
-    - thing: Python 3
+    - thing: Python
     - thing: Django
     - thing: Bash
 
